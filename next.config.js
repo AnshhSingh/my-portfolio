@@ -3,6 +3,7 @@ const withMDX = require('@next/mdx')()
 const nextConfig = {}
 
 module.exports = nextConfig
+
 module.exports = {
     images: {
       remotePatterns: [
@@ -15,3 +16,4 @@ module.exports = {
       ],
     },
   }
+  module.exports = withMDX(nextConfig)
