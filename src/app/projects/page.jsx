@@ -4,7 +4,7 @@ export default function Home(){
   return (
     <section className=" grid">
     <div className="card-container grid-rows-4">
-      <a href="https://manuarora.in">
+      <a href="">
         <div className="card m-8 dark:bg-gray-900 rounded-xl px-4 border border-gray-300 hover:border-gray-300 transition duration-100 transform hover:-translate-y-2 hover:scale-100">
           <div className="img-avatar-container flex pt-4 space-x-4 opacity-80">
 
@@ -16,7 +16,7 @@ export default function Home(){
          
         </div>
       </a>
-      <a href="https://manuarora.in">
+      <a href="">
         <div className="card m-8 dark:bg-gray-900 rounded-xl px-4 border border-gray-300 hover:border-gray-300 transition duration-100 transform hover:-translate-y-2 hover:scale-100">
           <div className="img-avatar-container flex pt-4 space-x-4 opacity-80">
 
@@ -27,7 +27,7 @@ export default function Home(){
          
         </div>
       </a>
-      <a href="https://manuarora.in">
+      <a href="">
         <div className="card m-8 dark:bg-gray-900 rounded-xl px-4 border border-gray-300 hover:border-gray-300 transition duration-100 transform hover:-translate-y-2 hover:scale-100">
           <div className="img-avatar-container flex pt-4 space-x-4 opacity-80">
 
@@ -38,7 +38,7 @@ export default function Home(){
          
         </div>
       </a>
-      <a href="https://manuarora.in">
+      <a href="">
         <div className="card m-8 dark:bg-gray-900 rounded-xl px-4 border border-gray-300 hover:border-gray-300 transition duration-100 transform hover:-translate-y-2 hover:scale-100">
           <div className="img-avatar-container flex pt-4 space-x-4 opacity-80">
 
@@ -49,7 +49,7 @@ export default function Home(){
          
         </div>
       </a>
-      <a href="https://manuarora.in">
+      <a href="">
         <div className="card m-8 dark:bg-gray-900 rounded-xl px-4 border border-gray-300 hover:border-gray-300 transition duration-100 transform hover:-translate-y-2 hover:scale-100">
           <div className="img-avatar-container flex pt-4 space-x-4 opacity-80">
 
@@ -60,7 +60,7 @@ export default function Home(){
          
         </div>
       </a>
-      <a href="https://manuarora.in">
+      <a href="">
         <div className="card m-8 dark:bg-gray-900 rounded-xl px-4 border border-gray-300 hover:border-gray-300 transition duration-100 transform hover:-translate-y-2 hover:scale-100">
           <div className="img-avatar-container flex pt-4 space-x-4 opacity-80">
 
