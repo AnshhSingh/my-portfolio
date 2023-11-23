@@ -2,6 +2,8 @@
 
 export default function Home(){
   return (
+<>
+    {/* <Background/> */}
     <section className=" grid">
     <div className="card-container grid-rows-4">
       <a href="https://github.com/AnshhSingh/archinstaller">
@@ -77,5 +79,7 @@ export default function Home(){
    
     </div>
     </section>
+    </>
   );
+
 }

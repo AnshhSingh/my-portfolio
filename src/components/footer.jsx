@@ -3,11 +3,11 @@ export default function navigation(){
     return (
 <>
 
-<footer className="bg-gradient-to-r from-black via-[#19034b] to-black">
+<footer className="relative bg-gradient-to-r from-black via-[#19034b] to-black">
   <div className="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
     <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
       <div>
-        <p className=" mt-4 text-lg text-cyan-500">
+        <p className=" mt-4 text-lg text-gray-500">
           Socials
         </p>
         <div className="flex mt-8 space-x-6 text-gray-600">

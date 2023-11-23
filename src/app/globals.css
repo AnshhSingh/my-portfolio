@@ -2,11 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
-}
+} */
+
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -27,9 +28,9 @@ body {
 }
 
 
-h1 { font-size: 60px; }
+h1 { font-size: 80px; }
 h3 {
-  font-size: 32px;
+  font-size: 38px;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -53,7 +54,14 @@ h3 {
 }
 
 
-
+/* .part{
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 0;
+} */
 
 .bg-layers {
   -webkit-animation: filter-animation 4s infinite;
